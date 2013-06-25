@@ -7,7 +7,7 @@ public class Animal
       this.legs = legs;
    }
    
-   public boolean equals(Object obj)
+   public boolean equals(Object obj) //Hello
    {
       if (obj == null)
       {
